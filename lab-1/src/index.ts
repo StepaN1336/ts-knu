@@ -91,10 +91,8 @@ function triangle(
     console.log(`a = ${a?.toFixed(4)}`);
     console.log(`b = ${b?.toFixed(4)}`);
     console.log(`c = ${c?.toFixed(4)}`);
-    console.log(`alpha = ${alpha?.toFixed(4)}°`);
-    console.log(`beta = ${beta?.toFixed(4)}°`);
+    console.log(`alpha = ${alpha?.toFixed(4)}`);
+    console.log(`beta = ${beta?.toFixed(4)}`);
 
     return "success";
 }
-
-triangle();
