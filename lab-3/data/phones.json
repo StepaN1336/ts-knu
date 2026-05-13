@@ -1,0 +1,47 @@
+{
+  "categoryName": "Смартфони",
+  "items": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S24 Ultra",
+      "shortname": "samsung-s24",
+      "description": "Флагманський смартфон з вбудованим стилусом S Pen та камерою 200 МП.",
+      "price": 47999
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 15 Pro",
+      "shortname": "iphone-15",
+      "description": "Lorem ipsum dolor sit amet. Титановий корпус, чип A17 Pro, камера 48 МП.",
+      "price": 51999
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 8 Pro",
+      "shortname": "pixel-8",
+      "description": "Смартфон з найкращою камерою серед Android. Чистий Android з AI-функціями.",
+      "price": 39500
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi 14 Pro",
+      "shortname": "xiaomi-14",
+      "description": "Потужний флагман із зарядкою 120W. Lorem ipsum dolor sit amet, consectetur.",
+      "price": 33000
+    },
+    {
+      "id": 5,
+      "name": "OnePlus 12",
+      "shortname": "oneplus-12",
+      "description": "Швидкий смартфон із зарядкою 100W та камерою Hasselblad.",
+      "price": 29999
+    },
+    {
+      "id": 6,
+      "name": "Sony Xperia 1 V",
+      "shortname": "xperia-1",
+      "description": "Смартфон для професійних фотографів та відеографів. 4K дисплей 120 Гц.",
+      "price": 44000
+    }
+  ]
+}

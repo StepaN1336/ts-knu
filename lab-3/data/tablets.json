@@ -1,0 +1,47 @@
+{
+  "categoryName": "Планшети",
+  "items": [
+    {
+      "id": 1,
+      "name": "Apple iPad Pro 12.9",
+      "shortname": "ipad-pro",
+      "description": "Найпотужніший планшет на чипі M2. Підтримка Apple Pencil та Magic Keyboard.",
+      "price": 42999
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "shortname": "tab-s9",
+      "description": "Великий AMOLED-дисплей 14.6 дюймів. Lorem ipsum dolor sit amet, consectetur.",
+      "price": 38500
+    },
+    {
+      "id": 3,
+      "name": "Lenovo Tab P12 Pro",
+      "shortname": "lenovo-tab",
+      "description": "Планшет для продуктивності з AMOLED-дисплеєм та стилусом у комплекті.",
+      "price": 22000
+    },
+    {
+      "id": 4,
+      "name": "Microsoft Surface Pro 9",
+      "shortname": "surface-pro",
+      "description": "Lorem ipsum dolor sit amet. Планшет-трансформер з повноцінним Windows 11.",
+      "price": 55000
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Pad 6 Pro",
+      "shortname": "xiaomi-pad",
+      "description": "Продуктивний планшет із процесором Snapdragon 8+ Gen 1 та дисплеєм 144 Гц.",
+      "price": 18999
+    },
+    {
+      "id": 6,
+      "name": "Amazon Fire HD 10",
+      "shortname": "fire-hd",
+      "description": "Доступний планшет для розваг та читання. Відмінна автономність до 12 годин.",
+      "price": 6999
+    }
+  ]
+}

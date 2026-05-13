@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбуки",
+    "shortname": "laptops",
+    "notes": "Широкий вибір ноутбуків для роботи, навчання та ігор."
+  },
+  {
+    "id": 2,
+    "name": "Смартфони",
+    "shortname": "phones",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 3,
+    "name": "Навушники",
+    "shortname": "headphones",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "name": "Планшети",
+    "shortname": "tablets",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam."
+  }
+]

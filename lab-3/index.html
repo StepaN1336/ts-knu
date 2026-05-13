@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TechStore — Каталог техніки</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="src/style.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <nav class="navbar-inner">
+      <div class="navbar-brand">
+        <span>⚡</span>
+        <span>Tech<span class="logo-accent">Store</span></span>
+      </div>
+      <div class="navbar-links">
+        <button class="nav-btn" onclick="loadHome()">Додому</button>
+        <button class="nav-btn" onclick="loadCatalog()">Каталог</button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Dynamic content area -->
+  <main class="main-container">
+    <div id="content">
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>© 2025 TechStore · Лабораторна робота №3 · TypeScript + Ajax</p>
+  </footer>
+
+  <script src="dist/main.js"></script>
+
+</body>
+</html>

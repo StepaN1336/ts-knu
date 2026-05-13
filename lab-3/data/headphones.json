@@ -1,0 +1,40 @@
+{
+  "categoryName": "Навушники",
+  "items": [
+    {
+      "id": 1,
+      "name": "Sony WH-1000XM5",
+      "shortname": "sony-xm5",
+      "description": "Найкращі навушники з активним шумопоглинанням. Автономність 30 годин.",
+      "price": 11999
+    },
+    {
+      "id": 2,
+      "name": "Apple AirPods Pro 2",
+      "shortname": "airpods-pro",
+      "description": "Lorem ipsum dolor sit amet. Адаптивне шумопоглинання, просторовий звук.",
+      "price": 9499
+    },
+    {
+      "id": 3,
+      "name": "Bose QuietComfort 45",
+      "shortname": "bose-qc45",
+      "description": "Преміум навушники з бездоганним комфортом та шумопоглинанням.",
+      "price": 10500
+    },
+    {
+      "id": 4,
+      "name": "Sennheiser Momentum 4",
+      "shortname": "sennheiser-m4",
+      "description": "Аудіофільські навушники з виключним звуком. Lorem ipsum dolor sit amet.",
+      "price": 12999
+    },
+    {
+      "id": 5,
+      "name": "JBL Tour One M2",
+      "shortname": "jbl-tour",
+      "description": "Бездротові навушники з технологією True Adaptive Noise Cancelling.",
+      "price": 7999
+    }
+  ]
+}

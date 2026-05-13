@@ -1,0 +1,40 @@
+{
+  "categoryName": "Ноутбуки",
+  "items": [
+    {
+      "id": 1,
+      "name": "ASUS VivoBook 15",
+      "shortname": "asus-vivobook",
+      "description": "Легкий ноутбук для щоденної роботи. Процесор Intel Core i5, 16 ГБ RAM, 512 ГБ SSD.",
+      "price": 28999
+    },
+    {
+      "id": 2,
+      "name": "Apple MacBook Air M2",
+      "shortname": "macbook-air",
+      "description": "Ультратонкий ноутбук з чипом Apple M2. Автономність до 18 годин, дисплей Liquid Retina.",
+      "price": 54999
+    },
+    {
+      "id": 3,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "shortname": "thinkpad-x1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Бізнес-ноутбук преміум класу.",
+      "price": 62500
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 15",
+      "shortname": "dell-xps",
+      "description": "Потужний ноутбук з OLED-дисплеєм 4K. Ідеальний для творчих profesіоналів.",
+      "price": 71000
+    },
+    {
+      "id": 5,
+      "name": "HP Pavilion Gaming",
+      "shortname": "hp-pavilion",
+      "description": "Ігровий ноутбук з відеокартою RTX 3060. Lorem ipsum dolor sit amet.",
+      "price": 42000
+    }
+  ]
+}
