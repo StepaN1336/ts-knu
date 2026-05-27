@@ -1,0 +1,210 @@
+{
+  "trips": [
+    {
+      "id": "trip-1",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-14",
+      "imageUrl": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=800&q=80",
+      "createdAt": "2026-05-01T10:00:00Z"
+    },
+    {
+      "id": "trip-2",
+      "city": "Kyoto",
+      "country": "Japan",
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-15",
+      "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80",
+      "createdAt": "2026-05-05T12:00:00Z"
+    },
+    {
+      "id": "trip-3",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "startDate": "2026-08-20",
+      "endDate": "2026-08-26",
+      "imageUrl": "https://images.unsplash.com/photo-1558370781-d6196949e317?w=800&q=80",
+      "createdAt": "2026-05-08T09:00:00Z"
+    },
+    {
+      "id": "trip-4",
+      "city": "Barcelona",
+      "country": "Spain",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-07",
+      "imageUrl": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800&q=80",
+      "createdAt": "2026-05-10T09:00:00Z"
+    }
+  ],
+  "dayPlans": [
+    {
+      "id": "dp-1",
+      "tripId": "trip-1",
+      "dayNumber": 1,
+      "date": "2026-06-10",
+      "activities": [
+        {
+          "id": "act-1",
+          "name": "Gamla Stan",
+          "description": "Прогулянка середньовічним Старим містом — вузькі вулички, барвисті будинки та Стокгольмський собор.",
+          "category": "landmark",
+          "time": "10:00",
+          "duration": 120
+        },
+        {
+          "id": "act-2",
+          "name": "Музей Васа",
+          "description": "Унікальний корабель 17 століття, що затонув у 1628 році та був піднятий майже неушкодженим.",
+          "category": "museum",
+          "time": "13:00",
+          "duration": 90
+        },
+        {
+          "id": "act-3",
+          "name": "Djurgården",
+          "description": "Острів-парк у центрі міста — ідеально для прогулянок, пікніків та відвідування Скансену.",
+          "category": "park",
+          "time": "15:30",
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "dp-2",
+      "tripId": "trip-1",
+      "dayNumber": 2,
+      "date": "2026-06-11",
+      "activities": [
+        {
+          "id": "act-4",
+          "name": "ABBA The Museum",
+          "description": "Інтерактивний музей легендарного шведського гурту з костюмами, записами та голограмами.",
+          "category": "museum",
+          "time": "11:00",
+          "duration": 120
+        },
+        {
+          "id": "act-5",
+          "name": "Östermalm Food Hall",
+          "description": "Історичний критий ринок з 1888 року — шведські делікатеси, морепродукти та локальні сири.",
+          "category": "restaurant",
+          "time": "14:00",
+          "duration": 60
+        }
+      ]
+    },
+    {
+      "id": "dp-3",
+      "tripId": "trip-2",
+      "dayNumber": 1,
+      "date": "2026-07-10",
+      "activities": [
+        {
+          "id": "act-6",
+          "name": "Fushimi Inari Shrine",
+          "description": "Тисячі червоних торії-воріт, що ведуть на гору Інарі. Найкраще відвідати вранці до натовпу.",
+          "category": "landmark",
+          "time": "08:00",
+          "duration": 150
+        },
+        {
+          "id": "act-7",
+          "name": "Nishiki Market",
+          "description": "Вузька торгова вулиця з понад 100 крамницями місцевої їжі — тофу, маринади, вугор.",
+          "category": "restaurant",
+          "time": "13:00",
+          "duration": 90
+        },
+        {
+          "id": "act-8",
+          "name": "Gion District",
+          "description": "Квартал гейш з традиційними чайними будинками, ліхтарями та дерев'яними мачія.",
+          "category": "landmark",
+          "time": "18:00",
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "dp-4",
+      "tripId": "trip-2",
+      "dayNumber": 2,
+      "date": "2026-07-11",
+      "activities": [
+        {
+          "id": "act-9",
+          "name": "Arashiyama Bamboo Grove",
+          "description": "Знаменитий бамбуковий гай на заході Кіото — найкраще рано вранці до відкриття туристичних автобусів.",
+          "category": "park",
+          "time": "07:30",
+          "duration": 60
+        },
+        {
+          "id": "act-10",
+          "name": "Tenryu-ji Temple",
+          "description": "Храм зі знаменитим садом каменів і ставком, включений до списку ЮНЕСКО.",
+          "category": "landmark",
+          "time": "09:30",
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "dp-5",
+      "tripId": "trip-3",
+      "dayNumber": 1,
+      "date": "2026-08-20",
+      "activities": [
+        {
+          "id": "act-11",
+          "name": "Belém Tower",
+          "description": "Вежа 16 століття на березі Тежу — символ епохи Великих географічних відкриттів.",
+          "category": "landmark",
+          "time": "10:00",
+          "duration": 90
+        },
+        {
+          "id": "act-12",
+          "name": "Pastéis de Belém",
+          "description": "Оригінальна кондитерська з 1837 року — батьківщина знаменитого португальського яєчного тарту pastel de nata.",
+          "category": "restaurant",
+          "time": "12:00",
+          "duration": 45
+        }
+      ]
+    },
+    {
+      "id": "dp-6",
+      "tripId": "trip-4",
+      "dayNumber": 1,
+      "date": "2026-09-01",
+      "activities": [
+        {
+          "id": "act-13",
+          "name": "Sagrada Família",
+          "description": "Незавершений шедевр Гауді — базиліка, що будується з 1882 року і досі вражає масштабом.",
+          "category": "landmark",
+          "time": "09:00",
+          "duration": 120
+        },
+        {
+          "id": "act-14",
+          "name": "Park Güell",
+          "description": "Казковий парк Гауді з мозаїчними тераcами і видом на все місто.",
+          "category": "park",
+          "time": "14:00",
+          "duration": 90
+        },
+        {
+          "id": "act-15",
+          "name": "La Boqueria",
+          "description": "Найвідоміший ринок Барселони на Рамблі — фрукти, морепродукти, хамон і тапас.",
+          "category": "restaurant",
+          "time": "17:00",
+          "duration": 60
+        }
+      ]
+    }
+  ]
+}
