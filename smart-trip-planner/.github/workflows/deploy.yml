@@ -31,12 +31,15 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build
+        run: |
+          cd smart-trip-planner
+          npm ci
+          npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: smart-trip-planner/dist
 
   deploy:
     needs: build
