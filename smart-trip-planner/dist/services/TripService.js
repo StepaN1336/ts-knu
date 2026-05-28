@@ -1,4 +1,4 @@
-const DATA_URL = "/data/trips.json";
+const DATA_URL = "data/trips.json";
 const STORAGE_KEY = "smart_trip_planner_trips";
 export class TripService {
     constructor() {
