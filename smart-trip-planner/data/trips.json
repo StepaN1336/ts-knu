@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "city": "Париж",
+    "country": "Франція",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-07",
+    "imageUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80",
+    "dayPlans": [
+      {
+        "id": "dp1",
+        "day": 1,
+        "date": "2025-06-01",
+        "activities": [
+          {
+            "id": "a1",
+            "title": "Ейфелева вежа",
+            "description": "Огляд головної пам'ятки Парижа",
+            "category": "визначна_пам'ятка",
+            "time": "10:00"
+          },
+          {
+            "id": "a2",
+            "title": "Обід у Le Jules Verne",
+            "description": "Ресторан з видом на місто",
+            "category": "ресторан",
+            "time": "13:00"
+          }
+        ]
+      },
+      {
+        "id": "dp2",
+        "day": 2,
+        "date": "2025-06-02",
+        "activities": [
+          {
+            "id": "a3",
+            "title": "Лувр",
+            "description": "Найбільший художній музей світу",
+            "category": "музей",
+            "time": "09:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "city": "Барселона",
+    "country": "Іспанія",
+    "startDate": "2025-08-10",
+    "endDate": "2025-08-15",
+    "imageUrl": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800&q=80",
+    "dayPlans": [
+      {
+        "id": "dp3",
+        "day": 1,
+        "date": "2025-08-10",
+        "activities": [
+          {
+            "id": "a4",
+            "title": "Саґрада Фамілія",
+            "description": "Знаменитий собор Гауді",
+            "category": "визначна_пам'ятка",
+            "time": "11:00"
+          }
+        ]
+      }
+    ]
+  }
+]
